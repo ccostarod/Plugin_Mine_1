@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Plugin_rojao">
+    <output-path>$USER_HOME$/Desktop/rodjao_server/plugins</output-path>
+    <root id="archive" name="Plugin_rojao.jar">
+      <element id="module-output" name="rodjao_servidor" />
+    </root>
+  </artifact>
+</component>

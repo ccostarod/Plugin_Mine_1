@@ -1,0 +1,13 @@
+name: PluginRodjao
+version: 1.0
+main: com.rodjao.me.Main
+commands:
+  hello:
+    description: Comando do hello!
+    usage: usou de forma errada, seu animal!
+  sethome:
+    description: Define a posição da casa do jogador
+    usage: /sethome
+  tellhouse:
+    description: Teleporta o jogador para a sua casa
+    usage: /tellhouse
